@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bi-shal
+- 👋 Hi, I’m Bishal Khatri.<--@bi-shal-->
 - 👀 I’m interested in DSA.
 - 🌱 I’m currently learning Data Science.
 
